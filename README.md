@@ -2,7 +2,7 @@
 # loyall.no FUNCTIONAL TEST
 
 Let's test https://loyall.no/ Hompage "OUR SOLUTIONS" section
-![alt text](https://raw.githubusercontent.com/Karolis01/loyall_no/master/Screenshots/Test.png)
+![alt text](https://raw.githubusercontent.com/Karolis01/LOYALL/master/Images/Test.png)
 
 # Test Steps:
 1. Use Pytest for testing
@@ -21,6 +21,6 @@ Element "Costumer Registration" is not functioning
 
 # Attached Screenshot indicates the problem
 # Element "Costumer Registration" has now link/location (FAILED)
-![alt text](https://raw.githubusercontent.com/Karolis01/loyall_no/master/Screenshots/Failure.png)
+![alt text](https://raw.githubusercontent.com/Karolis01/LOYALL/master/Images/Failure.png)
 # And this is working element (PASSED)
-![alt text](https://raw.githubusercontent.com/Karolis01/loyall_no/master/Screenshots/Correct.png)
+![alt text](https://raw.githubusercontent.com/Karolis01/LOYALL/master/Images/Correct.png)
