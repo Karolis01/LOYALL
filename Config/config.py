@@ -18,4 +18,4 @@ class TestData:
     MARKETING_TITLE = "We make your marketing more successful | Loyall"
     GIFT_CARDS_TITLE = "Increase sales with custom gift cards | Loyall"
 
-    CHAT_BOT = (By.XPATH, "//p[@class='initial-message-text m-top-1 m-bottom-0']")
+
